@@ -7,4 +7,6 @@ div {
 
 body {
   background-color: bisque;
+  border-radius: 3vmin;
+  border: solid black 0.5vmin;
 }
